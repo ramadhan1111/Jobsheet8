@@ -9,7 +9,7 @@ public class ArrayBilangan251 {
        bil[2] = (int) 7.5;
        bil[3] = 2000000;
 
-       for (int i = 0; i <= 4; i++){
+       for (int i = 0; i < 4; i++){
             System.out.println(bil[i]);
        }
     }
